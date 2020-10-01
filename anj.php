@@ -17,6 +17,7 @@
 <form action="anj.php" method="post">
 Value: <input type="text" name="name"><br><br>
 <input type="submit">
+    <!--Submit-->
 </form>
 
 </body>
